@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MONTH 12
 
-int main(void)
+int main2_8(void)
 {
 	float loan, rate, payment;
 

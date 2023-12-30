@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main4(void)
+int main2_4(void)
 {
 	float amount, taxedamount;
 

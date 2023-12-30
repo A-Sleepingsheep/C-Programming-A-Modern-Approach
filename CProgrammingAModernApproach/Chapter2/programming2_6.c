@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main6(void)
+int main2_6(void)
 {
 	int x, value;
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main1(void)
+int main2_1(void)
 {
 	printf("           *\n");
 	printf("          * \n");

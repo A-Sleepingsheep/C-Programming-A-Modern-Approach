@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main7(void)
+int main2_7(void)
 {
 	int amount;
 

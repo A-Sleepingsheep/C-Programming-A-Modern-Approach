@@ -4,7 +4,7 @@
 #define PI 3.14159
 #define FOUR_DEVIDE_THREE (4.0f/3.0f)
 
-int main3(void)
+int main2_3(void)
 {
 	float radius, volume;
 
