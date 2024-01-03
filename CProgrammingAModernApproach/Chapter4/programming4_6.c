@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main4_6(void)
 {
 	int i1, i2, i3, i4, i5, i6,j1, j2, j3, j4, j5,j6, first_num, second_num, total;
 
